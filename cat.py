@@ -2,9 +2,9 @@ import sys
 
 
 def dog():
-    print("woof")
+    print("Woof")
 def cat():
-    print("meow")
+    print("Meow")
 def default():
     print("hello")
 
